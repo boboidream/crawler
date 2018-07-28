@@ -31,3 +31,7 @@ node_modules/
 ################
 .settings/
 .vscode/
+.DS_Store
+__pycache__
+./weixin/output
+./weixin/prod
