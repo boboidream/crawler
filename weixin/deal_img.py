@@ -47,3 +47,7 @@ def checkImg(oldimg):
         return r
     else:
         return False
+
+
+
+
